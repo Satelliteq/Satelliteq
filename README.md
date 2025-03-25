@@ -1,4 +1,4 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Emirhan 👋
 
 🚀 **Developer & Entrepreneur**  
 💻 Passionate about **JavaScript, React, React Native**  
