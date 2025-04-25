@@ -1,44 +1,76 @@
-<!-- Urbanist fontunu kullanmak için Google Fonts'tan import ediyoruz -->
-<link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700&display=swap" rel="stylesheet">
+<!-- Google Fonts'tan Urbanist fontunu ekliyoruz -->
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700&display=swap" rel="stylesheet">
+</head>
 
-<!-- Başlık ve giriş -->
-<h1 align="center" style="font-family: 'Urbanist', sans-serif;">Merhaba, Ben [Adınız] 👋</h1>
-<p align="center" style="font-family: 'Urbanist', sans-serif;">🚀 Full Stack Geliştirici | 🎨 UI/UX Tutkunu | 🌍 Açık Kaynak Katkıcısı</p>
+<!-- Profil Başlığı -->
+<div align="center">
+  <h1 style="font-family: 'Urbanist', sans-serif; font-size: 36px;">Merhaba, Ben Emirhan Sevimli 👋</h1>
+  <p style="font-family: 'Urbanist', sans-serif; font-size: 18px; color: #4f4f4f;">🚀 Full Stack Geliştirici | 💻 Yazılım Tasarımcısı | 🌍 Teknoloji Aşığı</p>
+  <img src="https://avatars.githubusercontent.com/u/15078806?s=400&u=d1f9b8e40d20f4b64a49774cf8f89c72bb20bc9e&v=4" alt="Emirhan Sevimli'nin Profil Fotoğrafı" width="150" style="border-radius: 50%;"/>
+</div>
 
-<!-- Dalga animasyonu -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hoş%20Geldiniz!&fontAlign=50&fontColor=fff&fontSize=30&font=Urbanist" alt="header" />
+<!-- Kısa Tanıtım -->
+<p align="center" style="font-family: 'Urbanist', sans-serif; font-size: 18px; color: #4f4f4f;">
+  💡 Kodu ve tasarımı birleştirerek mükemmel çözümler üretmeyi seviyorum. <br />
+  Her zaman yeni teknolojileri keşfetmeye açığım ve sürekli öğrenmeye çalışıyorum. <br />
+  <i>Projelerime göz atmayı unutmayın!</i>
 </p>
 
-<!-- GitHub İstatistikleri -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[kullanıcı-adınız]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[kullanıcı-adınız]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Animasyonlu "Hakkımda" Bölümü -->
+## 🔍 Hakkımda
 
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[kullanıcı-adınız]&theme=radical" alt="GitHub Streak" />
-</p>
+<div style="text-align: center; font-family: 'Urbanist', sans-serif; font-size: 18px; color: #4f4f4f;">
+  <p>🧑‍💻 **Adım:** Emirhan Sevimli <br />
+  🏫 **Okulum:** Fırat Üniversitesi <br />
+  💻 **Teknolojiler:** React, Node.js, Python, SQL <br />
+  🌱 **Şu An Öğreniyorum:** AI, Makine Öğrenimi, Blockchain <br />
+  📫 **İletişim:** emirhansvml00@gmail.com <br />
+  </p>
+</div>
 
-<!-- Ziyaretçi Sayacı -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[kullanıcı-adınız]&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Ziyaretçi Sayacı" />
-</p>
+<!-- Animasyonlu İstatistikler -->
+## 📊 İstatistiklerim
 
-<!-- Sosyal Medya Bağlantıları -->
-<p align="center">
-  <a href="https://linkedin.com/in/[linkedin-kullanıcı-adınız]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Satelliteq&show_icons=true&theme=radical&hide_title=true&count_private=true)
+
+<!-- Projelerim -->
+## 📂 Öne Çıkan Projelerim
+
+<div align="center">
+  <a href="[Proje 1 Linki]">
+    <img src="https://github-readme-projects.vercel.app/api?username=Satelliteq&repo=[Proje 1 Adı]" width="250" height="200" style="border-radius: 10px; transition: all 0.3s ease;" />
   </a>
-  <a href="https://twitter.com/[twitter-kullanıcı-adınız]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="[Proje 2 Linki]">
+    <img src="https://github-readme-projects.vercel.app/api?username=Satelliteq&repo=[Proje 2 Adı]" width="250" height="200" style="border-radius: 10px; transition: all 0.3s ease;" />
   </a>
-  <a href="https://instagram.com/[instagram-kullanıcı-adınız]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="[Proje 3 Linki]">
+    <img src="https://github-readme-projects.vercel.app/api?username=Satelliteq&repo=[Proje 3 Adı]" width="250" height="200" style="border-radius: 10px; transition: all 0.3s ease;" />
   </a>
-</p>
+</div>
 
-<!-- Kapanış -->
-<p align="center" style="font-family: 'Urbanist', sans-serif;">💻 Kodlamayı seviyorum ve her gün yeni şeyler öğrenmeye çalışıyorum!</p>
+<!-- Proje Linkleri ve Bağlantılar -->
+## 📌 İletişim ve Bağlantılar
 
+[GitHub Profilim](https://github.com/Satelliteq)  
+[LinkedIn Profilim](https://www.linkedin.com/in/[LinkedIn Kullanıcı Adınız])  
+[E-posta Adresim](mailto:emirhansvml00@gmail.com)
+
+## 💻 Çalışmalarım
+
+<div align="center">
+  <img src="https://github.com/Readme-Workflows/stats/workflows/Workflows%20status%20badge/badge.svg" alt="GitHub Workflow Status" />
+</div>
+
+<!-- Animasyonlu Footer -->
+<div align="center" style="margin-top: 30px;">
+  <p style="font-family: 'Urbanist', sans-serif; font-size: 16px; color: #4f4f4f;">Her gün yeni şeyler öğreniyorum. İleriye doğru birlikte büyümek için takipte kalın! 🚀</p>
+</div>
+
+<!-- Page Load Animation -->
+<script>
+  window.onload = function() {
+    document.body.style.transition = 'all 0.5s ease';
+    document.body.style.opacity = '1';
+  };
+</script>
