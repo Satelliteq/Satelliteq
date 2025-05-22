@@ -13,9 +13,7 @@
 Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim[cite: 1]. Web ve mobil uygulama geliştirme alanında tutkuyla çalışıyorum ve sürekli yeni teknolojiler öğrenerek kendimi geliştiriyorum. Bu öğrendiklerimi pratik projelere dönüştürmekten keyif alıyorum. Profesyonel kariyerimde yenilikçi ve topluma faydalı projelere katkıda bulunmayı hedefliyorum.
 </p>
 
-## Yeteneklerim ve Projelerim 🚀
-
-> Çalıştığım ve ilgi duyduğum temel teknolojiler ve geliştirdiğim önemli projeler.
+## Yeteneklerim 🚀
 
 <table>
   <tr>
@@ -26,10 +24,6 @@ Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Y
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React 
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
-      <br>React Native 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
@@ -66,7 +60,8 @@ Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Y
       <br>C# 
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />       <br>SQL 
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />
+      <br>SQL 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
@@ -97,20 +92,20 @@ Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Y
 
 ### Öne Çıkan Projelerim:
 
-* **İstanbul Etkinlik Takip ve Keşfetme Uygulaması** [cite: 1]
-    * **Teknolojiler:** React Native, REST API, Design, Web Scrapping [cite: 1]
-    * İstanbul'daki büyükşehir ve ilçe belediyelerinin resmi web sitelerinden elde edilen verilerle geliştirilen bir mobil etkinlik keşif ve takip uygulamasıdır. Kullanıcıların şehirdeki kültür, sanat, konser, tiyatro gibi etkinlikleri tek bir uygulama üzerinden kolayca keşfedebilmesini amaçlar[cite: 2]. Uygulama sayesinde kullanıcılar şehirdeki sosyal yaşama daha aktif katılım gösterebilmekte, farklı ilçelerdeki güncel etkinliklerden kolayca haberdar olabilmektedir[cite: 3].
-    * [Proje GitHub Linki](https://github.com/Satelliteg/Istanbul-Event-Tracking-App) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
+* **İstanbul Etkinlik Takip ve Keşfetme Uygulaması**
+    * **Teknolojiler:** React Native, REST API, Design, Web Scrapping
+    * İstanbul'daki büyükşehir ve ilçe belediyelerinin resmi web sitelerinden elde edilen verilerle geliştirilen bir mobil etkinlik keşif ve takip uygulamasıdır. Kullanıcıların şehirdeki kültür, sanat, konser, tiyatro gibi etkinlikleri tek bir uygulama üzerinden kolayca keşfedebilmesini amaçlar. Uygulama sayesinde kullanıcılar şehirdeki sosyal yaşama daha aktif katılım gösterebilmekte, farklı ilçelerdeki güncel etkinliklerden kolayca haberdar olabilmektedir. [cite: 1, 2, 3]
+    * [Proje GitHub Linki](https://github.com/Satelliteg/Istanbul-Event-Tracking-App)
 
-* **Pixel Hunt - Görsel Tahmin Oyunu** [cite: 4]
-    * **Teknolojiler:** React.js, Node.js, Express.js, Authentication, Supabase, TailwindCss [cite: 4]
-    * Oyunculara bir görselin yalnızca küçük bir bölümünü (örneğin %5'lik bir kesitini) göstererek, tamamının ne olduğunu tahmin ettirmeye dayalı bir web tabanlı tahmin oyunudur[cite: 4]. Oyuncu her yanlış tahmin yaptığında görselin biraz daha büyük bir kısmı açılır; doğru tahmin gelene kadar süreç devam eder[cite: 5]. Oyunun amacı, görseli en az sayıda ipucu/kesit ile doğru tahmin ederek yüksek skor elde etmek ve keyifli vakit geçirmektir[cite: 6]. Bu projeyle birlikte kullanıcı etkileşimleri, durum yönetimi, resim işleme ve oyun mantığı gibi konularda ileri seviye deneyim kazanıldı[cite: 7].
-    * [Proje GitHub Linki](https://github.com/Satelliteg/Pixel-Hunt-Game) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
+* **Pixel Hunt - Görsel Tahmin Oyunu**
+    * **Teknolojiler:** React.js, Node.js, Express.js, Authentication, Supabase, TailwindCss
+    * Oyunculara bir görselin yalnızca küçük bir bölümünü (örneğin %5'lik bir kesitini) göstererek, tamamının ne olduğunu tahmin ettirmeye dayalı bir web tabanlı tahmin oyunudur. Oyuncu her yanlış tahmin yaptığında görselin biraz daha büyük bir kısmı açılır; doğru tahmin gelene kadar süreç devam eder. Oyunun amacı, görseli en az sayıda ipucu/kesit ile doğru tahmin ederek yüksek skor elde etmek ve keyifli vakit geçirmektir. Bu projeyle birlikte kullanıcı etkileşimleri, durum yönetimi, resim işleme ve oyun mantığı gibi konularda ileri seviye deneyim kazanıldı. [cite: 4, 5, 6, 7]
+    * [Proje GitHub Linki](https://github.com/Satelliteg/Pixel-Hunt-Game)
 
-* **GitFora Github Kullanıcı Analizi** [cite: 8]
-    * **Teknolojiler:** React, Node.js, Express.js, PostgreSQL, GitHub REST & GraphQL API, JavaScript [cite: 8]
-    * GitHub kullanıcı profilleri ve eğilimleri analiz ederek istatistiksel veriler sunan bir web uygulamasıdır[cite: 9]. Kullanıcıların en çok katkı sağladığı programlama dilleri, en popüler repoları ve takipçi sayısı gibi bilgiler görselleştirilmiştir[cite: 9]. Backend tarafında GitHub API verileri çekilip PostgreSQL veritabanına kaydedildi, frontend tarafında tablo ve grafiklerle kullanıcıya sunuldu[cite: 10]. Proje kapsamında yazılım mimarisi, veritabanı tasarımı ve yönetimi, arayüz geliştirme süreçleri yönetildi[cite: 11].
-    * [Proje GitHub Linki](https://github.com/Satelliteg/GitFora-Github-User-Analysis) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
+* **GitFora Github Kullanıcı Analizi**
+    * **Teknolojiler:** React, Node.js, Express.js, PostgreSQL, GitHub REST & GraphQL API, JavaScript
+    * GitHub kullanıcı profilleri ve eğilimleri analiz ederek istatistiksel veriler sunan bir web uygulamasıdır. Kullanıcıların en çok katkı sağladığı programlama dilleri, en popüler repoları ve takipçi sayısı gibi bilgiler görselleştirilmiştir. Backend tarafında GitHub API verileri çekilip PostgreSQL veritabanına kaydedildi, frontend tarafında tablo ve grafiklerle kullanıcıya sunuldu. Proje kapsamında yazılım mimarisi, veritabanı tasarımı ve yönetimi, arayüz geliştirme süreçleri yönetildi. [cite: 8, 9, 10, 11]
+    * [Proje GitHub Linki](https://github.com/Satelliteg/GitFora-Github-User-Analysis)
 
 ## GitHub İstatistikleri 📊
 
