@@ -1,4 +1,4 @@
-<img src="[https://github.com/user-attachments/assets/ef85a996-a955-4433-b68b-8a5a76d87e04](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
 <div align="justify">
 
 
