@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3fd14c74-e677-42cd-8d28-0a572e10675d" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
+<img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
   
 
   <a href="https://www.linkedin.com/in/emirhan-sevimli/">
@@ -78,6 +78,6 @@ Favori diller, popüler repolar ve istatistiksel veriler görselleştirilerek su
 
 ---
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/user-attachments/assets/3fd14c74-e677-42cd-8d28-0a572e10675d" style="display: block; opacity: 1;">
 
 > 💡 GitHub'daki yolculuğumu projelerle sürdürüyorum. Daha fazlası için profilimi inceleyebilirsin!
