@@ -2,9 +2,9 @@
 <div align="justify">
 
 
-<a href="https://www.linkedin.com/in/senin-linkedin-profilin/">  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/senin-linkedin-profilin/">  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-         
+         
 <a href="https://github.com/Satelliteg"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </div>
@@ -20,78 +20,77 @@ Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Y
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript [cite: 1]
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="Javascript" />
+      <br>Javascript 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React [cite: 1]
+      <br>React 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=reactnative" width="48" height="48" alt="React Native" />
-      <br>React Native [cite: 1]
+      <br>React Native 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js [cite: 1]
+      <br>Node.js 
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-      <br>Express.js [cite: 1]
+      <br>Express.js 
     </td>
        <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML [cite: 1]
+      <br>HTML 
     </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS [cite: 1]
+      <br>CSS 
     </td>
           <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL [cite: 1]
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB [cite: 1]
+      <br>MongoDB 
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python [cite: 1]
+      <br>Python 
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-      <br>C# [cite: 1]
+      <br>C# 
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
-      <br>SQL [cite: 1]
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" />       <br>SQL 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase [cite: 1]
+      <br>Firebase 
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-      <br>Supabase [cite: 1]
+      <br>Supabase 
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma [cite: 1]
+      <br>Figma 
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap [cite: 1]
+      <br>Bootstrap 
     </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-      <br>TailwindCSS [cite: 1]
+      <br>TailwindCSS 
     </td>
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git [cite: 1]
+      <br>Git 
     </td>
   </tr>
 </table>
@@ -99,19 +98,19 @@ Merhaba! GitHub Sayfama hoş geldin. Ben Emirhan Sevimli, Fırat Üniversitesi Y
 ### Öne Çıkan Projelerim:
 
 * **İstanbul Etkinlik Takip ve Keşfetme Uygulaması** [cite: 1]
-    * **Teknolojiler:** React Native, REST API, Web Scrapping [cite: 1]
-    * İstanbul'daki belediyelerin resmi web sitelerinden etkinlik verilerini toplayarak geliştirilen, mobil bir etkinlik keşif ve takip uygulaması. [cite: 1] Kullanıcıların şehirdeki kültür, sanat ve konser gibi etkinlikleri tek bir uygulama üzerinden kolayca keşfetmelerini sağlar. [cite: 2]
-    * [Proje GitHub Linki] (Eğer varsa buraya ekle)
+    * **Teknolojiler:** React Native, REST API, Design, Web Scrapping [cite: 1]
+    * İstanbul'daki büyükşehir ve ilçe belediyelerinin resmi web sitelerinden elde edilen verilerle geliştirilen bir mobil etkinlik keşif ve takip uygulamasıdır. Kullanıcıların şehirdeki kültür, sanat, konser, tiyatro gibi etkinlikleri tek bir uygulama üzerinden kolayca keşfedebilmesini amaçlar[cite: 2]. Uygulama sayesinde kullanıcılar şehirdeki sosyal yaşama daha aktif katılım gösterebilmekte, farklı ilçelerdeki güncel etkinliklerden kolayca haberdar olabilmektedir[cite: 3].
+    * [Proje GitHub Linki](https://github.com/Satelliteg/Istanbul-Event-Tracking-App) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
 
 * **Pixel Hunt - Görsel Tahmin Oyunu** [cite: 4]
     * **Teknolojiler:** React.js, Node.js, Express.js, Authentication, Supabase, TailwindCss [cite: 4]
-    * Oyunculara bir görselin küçük bir bölümünü göstererek tamamını tahmin etmeye dayalı web tabanlı bir oyun. [cite: 4] Bu projeyle kullanıcı etkileşimleri, durum yönetimi, resim işleme ve oyun mantığı konularında ileri düzey deneyim kazandım. [cite: 7]
-    * [Proje GitHub Linki] (Eğer varsa buraya ekle)
+    * Oyunculara bir görselin yalnızca küçük bir bölümünü (örneğin %5'lik bir kesitini) göstererek, tamamının ne olduğunu tahmin ettirmeye dayalı bir web tabanlı tahmin oyunudur[cite: 4]. Oyuncu her yanlış tahmin yaptığında görselin biraz daha büyük bir kısmı açılır; doğru tahmin gelene kadar süreç devam eder[cite: 5]. Oyunun amacı, görseli en az sayıda ipucu/kesit ile doğru tahmin ederek yüksek skor elde etmek ve keyifli vakit geçirmektir[cite: 6]. Bu projeyle birlikte kullanıcı etkileşimleri, durum yönetimi, resim işleme ve oyun mantığı gibi konularda ileri seviye deneyim kazanıldı[cite: 7].
+    * [Proje GitHub Linki](https://github.com/Satelliteg/Pixel-Hunt-Game) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
 
 * **GitFora Github Kullanıcı Analizi** [cite: 8]
     * **Teknolojiler:** React, Node.js, Express.js, PostgreSQL, GitHub REST & GraphQL API, JavaScript [cite: 8]
-    * GitHub kullanıcı profillerini ve eğilimlerini analiz ederek istatistiksel veriler sunan bir web uygulaması. [cite: 9] Proje kapsamında yazılım mimarisi, veritabanı tasarımı ve yönetimi, arayüz geliştirme süreçleri yönetildi. [cite: 11]
-    * [Proje GitHub Linki] (Eğer varsa buraya ekle)
+    * GitHub kullanıcı profilleri ve eğilimleri analiz ederek istatistiksel veriler sunan bir web uygulamasıdır[cite: 9]. Kullanıcıların en çok katkı sağladığı programlama dilleri, en popüler repoları ve takipçi sayısı gibi bilgiler görselleştirilmiştir[cite: 9]. Backend tarafında GitHub API verileri çekilip PostgreSQL veritabanına kaydedildi, frontend tarafında tablo ve grafiklerle kullanıcıya sunuldu[cite: 10]. Proje kapsamında yazılım mimarisi, veritabanı tasarımı ve yönetimi, arayüz geliştirme süreçleri yönetildi[cite: 11].
+    * [Proje GitHub Linki](https://github.com/Satelliteg/GitFora-Github-User-Analysis) *(Bu linki güncelledim, eğer doğru değilse lütfen bana bildir!)*
 
 ## GitHub İstatistikleri 📊
 
