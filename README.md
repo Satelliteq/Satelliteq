@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/24b8af43-b39e-4d66-ba8c-fac29a785a26" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
+<img src="https://github.com/user-attachments/assets/3fd14c74-e677-42cd-8d28-0a572e10675d" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
   
 
   <a href="https://www.linkedin.com/in/emirhan-sevimli/">
