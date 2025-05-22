@@ -1,11 +1,14 @@
 <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/senin-linkedin-profilin/">
+  <a href="https://www.linkedin.com/in/emirhan-sevimli/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Satelliteg">
+  <a href="https://github.com/Satelliteq">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/EmirhanSvml00">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -21,7 +24,7 @@ Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
 ## 🚀 Yeteneklerim
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,html,css,postgresql,mongodb,python,cs,mysql,firebase,supabase,figma,bootstrap,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,html,css,postgresql,mongodb,python,cs,mysql,firebase,supabase,figma,bootstrap,tailwind,git," />
 </div>
 
 ---
@@ -74,5 +77,7 @@ Favori diller, popüler repolar ve istatistiksel veriler görselleştirilerek su
 </details>
 
 ---
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 > 💡 GitHub'daki yolculuğumu projelerle sürdürüyorum. Daha fazlası için profilimi inceleyebilirsin!
