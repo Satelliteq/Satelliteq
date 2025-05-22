@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/ef85a996-a955-4433-b68b-8a5a76d87e04" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
+<img src="[https://github.com/user-attachments/assets/ef85a996-a955-4433-b68b-8a5a76d87e04](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
 <div align="justify">
-![Frame 123 (2)](https://github.com/user-attachments/assets/ef85a996-a955-4433-b68b-8a5a76d87e04)
+
 
 <a href="https://www.linkedin.com/in/senin-linkedin-profilin/">  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
