@@ -39,7 +39,7 @@ Kültür, sanat, konser, tiyatro gibi etkinlikleri tek platformda keşfetme imka
 
 ---
 
-### 🎮 [Pixel Hunt - Görsel Tahmin Oyunu](https://github.com/Satelliteg/Pixel-Hunt-Game)
+### 🎮 [Pixel Hunt - Görsel Tahmin Oyunu](https://github.com/Satelliteg/PixelHunt)
 
 > **Teknolojiler:** React.js, Node.js, Express.js, Authentication, Supabase, TailwindCSS  
 Oyunculara bir görselin küçük bir kısmı gösterilir, tahminler yaparak tamamını bulmaya çalışırlar.  
@@ -47,7 +47,7 @@ Her yanlış tahminle görüntü biraz daha netleşir. Skor hedeflidir ve eğlen
 
 ---
 
-### 📊 [GitFora - GitHub Kullanıcı Analizi](https://github.com/Satelliteg/GitFora-Github-User-Analysis)
+### 📊 [GitFora - GitHub Kullanıcı Analizi](https://github.com/Satelliteg/Gitfora)
 
 > **Teknolojiler:** React, Node.js, Express.js, PostgreSQL, GitHub API (REST & GraphQL)  
 Kullanıcıların GitHub profillerini analiz eden bir web uygulaması.  
