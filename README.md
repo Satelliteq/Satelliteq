@@ -78,6 +78,6 @@ Favori diller, popüler repolar ve istatistiksel veriler görselleştirilerek su
 
 ---
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/user-attachments/assets/3fd14c74-e677-42cd-8d28-0a572e10675d" style="display: block; opacity: 1;">
+
 
 > 💡 GitHub'daki yolculuğumu projelerle sürdürüyorum. Daha fazlası için profilimi inceleyebilirsin!
