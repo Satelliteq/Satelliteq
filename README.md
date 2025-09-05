@@ -1,15 +1,3 @@
-<img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
-  
-
-  <a href="https://www.linkedin.com/in/emirhan-sevimli/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/EmirhanSvml00">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
----
 
 ### Merhaba! 👋  
 Ben **Emirhan Sevimli**, Fırat Üniversitesi Yazılım Mühendisliği öğrencisiyim.  
@@ -18,11 +6,27 @@ Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
 
 ---
 
+<div>
+<a href="https://www.linkedin.com/in/emirhan-sevimli/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/EmirhanSvml00">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+
+---
+
 ## 🚀 Yeteneklerim
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,html,css,postgresql,mongodb,python,cs,mysql,firebase,supabase,figma,bootstrap,tailwind,git," />
 </div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
 
 ---
 
