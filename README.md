@@ -4,7 +4,6 @@ Ben **Emirhan Sevimli**, Fırat Üniversitesi Yazılım Mühendisliği öğrenci
 Web ve mobil uygulama geliştirme alanlarında çalışıyor, öğrendiklerimi projelere dönüştürmeyi seviyorum.  
 Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
 
----
 
 <div>
 <a href="https://www.linkedin.com/in/emirhan-sevimli/">
@@ -16,7 +15,7 @@ Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
 </div>
 
 
----
+
 
 ## 🚀 Yeteneklerim
 
