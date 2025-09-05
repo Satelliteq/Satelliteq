@@ -23,11 +23,11 @@ Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,html,css,postgresql,mongodb,python,cs,mysql,firebase,supabase,figma,bootstrap,tailwind,git," />
 </div>
 
----
+
 
 <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" alt="👋 Merhaba! Ben Emirhan" title="👋 Merhaba! Ben Emirhan"/>
 
----
+
 
 ## 📌 Öne Çıkan Projeler
 
@@ -37,7 +37,7 @@ Hedefim; teknolojiyle topluma faydalı, yenilikçi projeler üretmek.
 İstanbul’daki büyükşehir ve ilçe belediyelerinin sitelerinden elde edilen verilerle geliştirilen bir mobil uygulama.  
 Kültür, sanat, konser, tiyatro gibi etkinlikleri tek platformda keşfetme imkanı sunar.
 
----
+
 
 ### 🎮 [Pixel Hunt - Görsel Tahmin Oyunu](https://github.com/Satelliteq/PixelHunt)
 
@@ -45,7 +45,7 @@ Kültür, sanat, konser, tiyatro gibi etkinlikleri tek platformda keşfetme imka
 Oyunculara bir görselin küçük bir kısmı gösterilir, tahminler yaparak tamamını bulmaya çalışırlar.  
 Her yanlış tahminle görüntü biraz daha netleşir. Skor hedeflidir ve eğlencelidir.
 
----
+
 
 ### 📊 [GitFora - GitHub Kullanıcı Analizi](https://github.com/Satelliteq/Gitfora)
 
@@ -76,7 +76,7 @@ Favori diller, popüler repolar ve istatistiksel veriler görselleştirilerek su
   <img src="https://komarev.com/ghpvc/?username=Satelliteg&label=PROFILE+VIEWS&style=for-the-badge" />
 </details>
 
----
+
 
 
 
